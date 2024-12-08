@@ -10,7 +10,7 @@ export default [
         title: 'Portfolio',
         imgURL: '/portfolio/assets/minimal-portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
-        link: '',
+        link: 'https://github.com/Mayvis-m/portfolio',
     },
 
     {
